@@ -1,0 +1,6 @@
+@TraderToolServer_HostAddress = http://localhost:5182
+
+GET {{TraderToolServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
